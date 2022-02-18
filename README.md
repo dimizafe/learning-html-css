@@ -58,17 +58,17 @@
 <br />
 <br />
 
-## Project7
+## Project: Tridute page
 
-### <img align="left" alt="" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
+### <a href="https://codepen.io/dimizafe/pen/GRMzExe"><img align="left" alt="My landing page" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
 #### Description:
 
 <br />
 <br />
 
-## Project8
+## Project: Survey form
 
-### <img align="left" alt="" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
+### <a href="https://codepen.io/dimizafe/pen/poWGmaq"><img align="left" alt="My landing page" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
 #### Description:
 
 <br />
