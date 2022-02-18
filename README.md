@@ -11,7 +11,7 @@
 
 ## Project: RPG cards with hover effect
 
-### <a href="https://codepen.io/dimizafe/pen/XWzzaZN"><img align="left" alt="Dimitris Zafeiris | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
+### <a href="https://codepen.io/dimizafe/pen/XWzzaZN"><img align="left" alt="RPG cards with hover effect" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
 #### Description:
 
 <br />
@@ -19,7 +19,7 @@
 
 ## Project: Simple glossy calculator with CSS/JAVASCRIPT
 
-### <a href="https://codepen.io/dimizafe/pen/BammZjZ"><img align="left" alt="Dimitris Zafeiris | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
+### <a href="https://codepen.io/dimizafe/pen/BammZjZ"><img align="left" alt="Simple glossy calculator with CSS/JAVASCRIPT" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
 #### Description:
 
 <br />
@@ -27,7 +27,7 @@
 
 ## Project: Profile card
 
-### <a href="https://codepen.io/dimizafe/pen/MWObwga"><img align="left" alt="Dimitris Zafeiris | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
+### <a href="https://codepen.io/dimizafe/pen/MWObwga"><img align="left" alt="Profile card" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
 #### Description:
 
 <br />
@@ -35,7 +35,7 @@
 
 ## Project: Portofolio template
 
-### <a href="https://codepen.io/dimizafe/pen/KKydmKQ"><img align="left" alt="Dimitris Zafeiris | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
+### <a href="https://codepen.io/dimizafe/pen/KKydmKQ"><img align="left" alt="Portofolio template" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
 #### Description:
 
 <br />
@@ -43,7 +43,7 @@
 
 ## Project: Technical Documentation
 
-### <a href="https://codepen.io/dimizafe/pen/gOXppXvQ"><img align="left" alt="Dimitris Zafeiris | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
+### <a href="https://codepen.io/dimizafe/pen/gOXppXvQ"><img align="left" alt="Technical Documentation" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
 #### Description:
 
 <br />
@@ -51,7 +51,7 @@
 
 ## Project: My landing page
 
-### <a href="https://codepen.io/dimizafe/pen/oNGVoGG"><img align="left" alt="Dimitris Zafeiris | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
+### <a href="https://codepen.io/dimizafe/pen/oNGVoGG"><img align="left" alt="My landing page" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
 #### Description:
 
 <br />
@@ -59,7 +59,7 @@
 
 ## Project7
 
-### LINK: <img align="left" alt="Dimitris Zafeiris | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
+### <img align="left" alt="" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 #### Description:
 
 <br />
@@ -67,7 +67,7 @@
 
 ## Project8
 
-### LINK: <img align="left" alt="Dimitris Zafeiris | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
+### <img align="left" alt="" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 #### Description:
 
 <br />
@@ -75,7 +75,7 @@
 
 ## Project9
 
-### LINK: <img align="left" alt="Dimitris Zafeiris | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
+### <img align="left" alt="" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 #### Description:
 <br />
 <br />
