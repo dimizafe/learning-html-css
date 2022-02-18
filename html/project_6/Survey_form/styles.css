@@ -1,0 +1,91 @@
+*{
+  margin: 0;
+  padding: 0;
+  scroll-behaviour: smooth;
+}
+html,body{
+  background: #e3e3e3;
+}
+h1,h2,h3,h4,h5,p,label{
+  font-family: Helvetica,Georgia;
+  font-size: 1.2rem;
+  color: #455d7a;
+  font-weight: 600;
+  text-align: center;
+  padding: 5px;
+  z-index: 5;
+}
+header{
+  width: 100%;
+  top: 1rem;
+  opacity: 0.9;
+  text-align: center;
+  background: #233142;
+  padding: 1%;
+}
+footer{
+  width: 100%;
+  margin-top: 2rem;
+  background: #f95959;
+  bottom: 0 auto;
+  opacity: 0.9;
+  text-align: left;
+  font-family: Helvetica,Georgia;
+  font-size: 1.2rem;
+  color: #233142;
+  
+}
+main{
+  display: flex;
+  justify-content: center;
+  align-item: center;
+}
+#title{
+  font-family: Helvetica, Ariel, Times New Roman;
+  font-weight: 900;
+  text-decoration: underline;
+  color: white;
+  text-aling: left;
+  margin: 0 auto;
+  font-style: uppercase;
+}
+#description{
+  margin: 0 auto;
+  padding-bottom: 20px;
+  text-weight: 700;
+}
+#survey-form{
+  margin: 0 auto;
+  color: white;
+  max-width: 60%;
+}
+.input .textarea{
+  border-radius: 2px;
+  border: none;
+  padding: 10px;
+  text-align: center;
+}
+.input:focus{
+  background-color: #e3e3e8;
+  z-index: 10;
+  color: #233142;
+  font-weight: 350;
+  font-style: italic;
+  border: 3px solid #f95959;
+}
+.textarea{
+  border-radius: 2px;
+  border: none;
+  padding: 10px;
+  text-align: center;
+}
+#text:focus{
+  background-color: #e3e3e8;
+  color: #233142;
+  font-weight: 350;
+  font-style: italic;
+  border: 3px solid #f95959;
+  z-index: 10;
+}
+
+
