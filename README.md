@@ -1,4 +1,7 @@
 # Learning HTML,CSS and JAVASCRIPT 
+<img align="right" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="right" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="right" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 Here are some of my starters projects that includes HTML , CSS and Javascript code.
 
@@ -11,42 +14,42 @@ Here are some of my starters projects that includes HTML , CSS and Javascript co
 
 ## Project: Simple glossy calculator with CSS/JAVASCRIPT
 
-### <a href="https://codepen.io/dimizafe/pen/BammZjZ">CODEPEN</a>
+### <a href="https://codepen.io/dimizafe/pen/BammZjZ"><img align="left" alt="Dimitris Zafeiris | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
 #### Description:
 
 ## Project: Profile card
 
-### <a href="https://codepen.io/dimizafe/pen/MWObwga">CODEPEN</a>
+### <a href="https://codepen.io/dimizafe/pen/MWObwga"><img align="left" alt="Dimitris Zafeiris | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
 #### Description:
 
 ## Project: Portofolio template
 
-### <a href="https://codepen.io/dimizafe/pen/KKydmKQ">CODEPEN</a>
+### <a href="https://codepen.io/dimizafe/pen/KKydmKQ"><img align="left" alt="Dimitris Zafeiris | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
 #### Description:
 
 ## Project: Technical Documentation
 
-### <a href="https://codepen.io/dimizafe/pen/gOXppXvQ">CODEPEN</a>
+### <a href="https://codepen.io/dimizafe/pen/gOXppXvQ"><img align="left" alt="Dimitris Zafeiris | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
 #### Description:
 
 ## Project: My landing page
 
-### <a href="https://codepen.io/dimizafe/pen/oNGVoGG">CODEPEN</a>
+### <a href="https://codepen.io/dimizafe/pen/oNGVoGG"><img align="left" alt="Dimitris Zafeiris | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
 #### Description:
 
 ## Project7
 
-### LINK: CODEPEN
+### LINK: <img align="left" alt="Dimitris Zafeiris | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 #### Description:
 
 ## Project8
 
-### LINK: CODEPEN
+### LINK: <img align="left" alt="Dimitris Zafeiris | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 #### Description:
 
 ## Project9
 
-### LINK: CODEPEN
+### LINK: <img align="left" alt="Dimitris Zafeiris | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 #### Description:
 
 ------------------------------------------------------------------------------------------------------------------------------------------
