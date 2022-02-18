@@ -27,7 +27,7 @@
 
 ## RPG cards with hover effect
 
-### <a href="https://codepen.io/dimizafe/pen/XWzzaZN"><img align="left" alt="RPG cards with hover effect" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
+### <a href="https://codepen.io/dimizafe/pen/XWzzaZN"><img align="right" alt="RPG cards with hover effect" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
 #### Description:
 
 <br />
