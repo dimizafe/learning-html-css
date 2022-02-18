@@ -20,7 +20,7 @@
   <li>Tridute page</li>
   <li>Survey form</li>
   <li>RPG cards with hover effect</li>
-</ol>
+</ul>
 
 <br />
 <br />
