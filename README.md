@@ -35,7 +35,7 @@
 
 ## Simple glossy calculator with CSS/JAVASCRIPT
 
-### <a href="https://codepen.io/dimizafe/pen/BammZjZ"><img align="left" alt="Simple glossy calculator with CSS/JAVASCRIPT" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
+### <a href="https://codepen.io/dimizafe/pen/BammZjZ"><img align="right" alt="Simple glossy calculator with CSS/JAVASCRIPT" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
 #### Description:
 
 <br />
@@ -43,7 +43,7 @@
 
 ## Profile card
 
-### <a href="https://codepen.io/dimizafe/pen/MWObwga"><img align="left" alt="Profile card" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
+### <a href="https://codepen.io/dimizafe/pen/MWObwga"><img align="right" alt="Profile card" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
 #### Description:
 
 <br />
@@ -51,7 +51,7 @@
 
 ## Portofolio template
 
-### <a href="https://codepen.io/dimizafe/pen/KKydmKQ"><img align="left" alt="Portofolio template" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
+### <a href="https://codepen.io/dimizafe/pen/KKydmKQ"><img align="right" alt="Portofolio template" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
 #### Description:
 
 <br />
@@ -59,7 +59,7 @@
 
 ## Technical Documentation
 
-### <a href="https://codepen.io/dimizafe/pen/gOXppXvQ"><img align="left" alt="Technical Documentation" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
+### <a href="https://codepen.io/dimizafe/pen/gOXppXvQ"><img align="right" alt="Technical Documentation" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
 #### Description:
 
 <br />
@@ -67,7 +67,7 @@
 
 ## My landing page
 
-### <a href="https://codepen.io/dimizafe/pen/oNGVoGG"><img align="left" alt="My landing page" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
+### <a href="https://codepen.io/dimizafe/pen/oNGVoGG"><img align="right" alt="My landing page" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
 #### Description:
 
 <br />
@@ -75,7 +75,7 @@
 
 ## Tridute page
 
-### <a href="https://codepen.io/dimizafe/pen/GRMzExe"><img align="left" alt="My landing page" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
+### <a href="https://codepen.io/dimizafe/pen/GRMzExe"><img align="right" alt="My landing page" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
 #### Description:
 
 <br />
@@ -83,7 +83,7 @@
 
 ## Survey form
 
-### <a href="https://codepen.io/dimizafe/pen/poWGmaq"><img align="left" alt="My landing page" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
+### <a href="https://codepen.io/dimizafe/pen/poWGmaq"><img align="right" alt="My landing page" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
 #### Description:
 
 <br />
@@ -91,7 +91,7 @@
 
 ## Project9
 
-### <img align="left" alt="" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
+### <img align="right" alt="" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 #### Description:
 <br />
 <br />
