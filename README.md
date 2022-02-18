@@ -4,54 +4,81 @@
 
 # Learning HTML,CSS and JAVASCRIPT 
 
-## Here are some of my starters projects that includes HTML , CSS and Javascript code.
+#### Here are some of my starters projects that includes HTML , CSS and Javascript code.
 
+<br />
+<br />
 
 ## Project: RPG cards with hover effect
 
 ### <a href="https://codepen.io/dimizafe/pen/XWzzaZN"><img align="left" alt="Dimitris Zafeiris | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
 #### Description:
 
+<br />
+<br />
 
 ## Project: Simple glossy calculator with CSS/JAVASCRIPT
 
 ### <a href="https://codepen.io/dimizafe/pen/BammZjZ"><img align="left" alt="Dimitris Zafeiris | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
 #### Description:
 
+<br />
+<br />
+
 ## Project: Profile card
 
 ### <a href="https://codepen.io/dimizafe/pen/MWObwga"><img align="left" alt="Dimitris Zafeiris | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
 #### Description:
+
+<br />
+<br />
 
 ## Project: Portofolio template
 
 ### <a href="https://codepen.io/dimizafe/pen/KKydmKQ"><img align="left" alt="Dimitris Zafeiris | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
 #### Description:
 
+<br />
+<br />
+
 ## Project: Technical Documentation
 
 ### <a href="https://codepen.io/dimizafe/pen/gOXppXvQ"><img align="left" alt="Dimitris Zafeiris | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
 #### Description:
+
+<br />
+<br />
 
 ## Project: My landing page
 
 ### <a href="https://codepen.io/dimizafe/pen/oNGVoGG"><img align="left" alt="Dimitris Zafeiris | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
 #### Description:
 
+<br />
+<br />
+
 ## Project7
 
 ### LINK: <img align="left" alt="Dimitris Zafeiris | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 #### Description:
+
+<br />
+<br />
 
 ## Project8
 
 ### LINK: <img align="left" alt="Dimitris Zafeiris | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 #### Description:
 
+<br />
+<br />
+
 ## Project9
 
 ### LINK: <img align="left" alt="Dimitris Zafeiris | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 #### Description:
+<br />
+<br />
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 ### Connect with me:
