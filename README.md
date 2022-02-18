@@ -5,7 +5,7 @@ Here are some of my starters projects that includes HTML , CSS and Javascript co
 
 ## Project: RPG cards with hover effect
 
-### <a href="https://codepen.io/dimizafe/pen/XWzzaZN">CODEPEN</a>
+### <a href="https://codepen.io/dimizafe/pen/XWzzaZN"><img align="left" alt="Dimitris Zafeiris | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
 #### Description:
 
 
