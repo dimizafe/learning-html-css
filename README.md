@@ -1,4 +1,4 @@
-# learning-html-css-javascript projects
+# Learning HTML,CSS and JAVASCRIPT 
 
 Here are some of my starters projects that includes HTML , CSS and Javascript code.
 
