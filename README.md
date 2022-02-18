@@ -10,7 +10,7 @@
 <br />
 <br />
 
-<ul>Projects
+<ul><strong>Projects</strong>
   <li>RPG cards with hover effect</li>
   <li>Simple glossy calculator with CSS/JAVASCRIPT</li>
   <li>Profile card</li>
