@@ -1,2 +1,3 @@
-# learning-html-css
-Here are my notes form learning HTML and CSS
+# learning-html-css-javascript projects
+
+Here are some of my starters projects that includes HTML , CSS and Javascript code.
