@@ -5,14 +5,14 @@ Here are some of my starters projects that includes HTML , CSS and Javascript co
 
 ## Project: RPG cards with hover effect
 
-CODEPEN https://codepen.io/dimizafe/pen/XWzzaZN
-Description:
+### <a href="https://codepen.io/dimizafe/pen/XWzzaZN">CODEPEN</a>
+#### Description:
 
 
 ## Project: Simple glossy calculator with CSS/JAVASCRIPT
 
-CODEPEN  https://codepen.io/dimizafe/pen/BammZjZ
-Description:
+### CODEPEN  https://codepen.io/dimizafe/pen/BammZjZ
+#### Description:
 
 ## Project: Profile card
 
