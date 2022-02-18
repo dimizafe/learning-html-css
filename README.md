@@ -9,7 +9,6 @@
 
 <br />
 <br />
-
 <ul><strong>Projects</strong>
   <li>RPG cards with hover effect</li>
   <li>Simple glossy calculator with CSS/JAVASCRIPT</li>
