@@ -11,27 +11,27 @@ Here are some of my starters projects that includes HTML , CSS and Javascript co
 
 ## Project: Simple glossy calculator with CSS/JAVASCRIPT
 
-### CODEPEN  https://codepen.io/dimizafe/pen/BammZjZ
+### <a href="https://codepen.io/dimizafe/pen/BammZjZ">CODEPEN</a>
 #### Description:
 
 ## Project: Profile card
 
-### CODEPEN https://codepen.io/dimizafe/pen/MWObwga
+### <a href="https://codepen.io/dimizafe/pen/MWObwga">CODEPEN</a>
 #### Description:
 
 ## Project: Portofolio template
 
-### CODEPEN https://codepen.io/dimizafe/pen/KKydmKQ
+### <a href="https://codepen.io/dimizafe/pen/KKydmKQ">CODEPEN</a>
 #### Description:
 
 ## Project: Technical Documentation
 
-### CODEPEN https://codepen.io/dimizafe/pen/gOXppXv
+### <a href="https://codepen.io/dimizafe/pen/gOXppXvQ">CODEPEN</a>
 #### Description:
 
 ## Project: My landing page
 
-### CODEPEN https://codepen.io/dimizafe/pen/oNGVoGG
+### <a href="https://codepen.io/dimizafe/pen/oNGVoGG">CODEPEN</a>
 #### Description:
 
 ## Project7
